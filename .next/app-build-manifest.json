@@ -21,6 +21,18 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/auth/login/page.js"
+    ],
+    "/patient/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/patient/page.css",
+      "static/chunks/app/patient/page.js"
+    ],
+    "/laboratory/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/laboratory/page.css",
+      "static/chunks/app/laboratory/page.js"
     ]
   }
 }

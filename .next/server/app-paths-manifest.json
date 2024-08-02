@@ -1,7 +1,13 @@
 {
-  "/dashboard/page": "app/dashboard/page.js",
   "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/patient/page": "app/patient/page.js",
+  "/api/patient/route": "app/api/patient/route.js",
+  "/api/log/officer/route": "app/api/log/officer/route.js",
+  "/api/lab/[id]/pdf-icn/route": "app/api/lab/[id]/pdf-icn/route.js",
+  "/api/lab/[id]/pdf-fm/route": "app/api/lab/[id]/pdf-fm/route.js",
+  "/api/lab/route": "app/api/lab/route.js",
   "/api/test-type/route": "app/api/test-type/route.js",
-  "/api/dashboard/chart/route": "app/api/dashboard/chart/route.js",
+  "/laboratory/page": "app/laboratory/page.js",
   "/auth/login/page": "app/auth/login/page.js"
 }
